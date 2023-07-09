@@ -193,3 +193,30 @@
 12:34:04.432 [main] INFO  testcases.Loginpage - login test started
 12:34:12.829 [main] INFO  testcases.Loginpage - clicked on login
 12:34:14.994 [main] INFO  testcases.Loginpage - login test finished
+17:22:20.598 [main] INFO  testcases.Accountregpage - **** Accountregpage started ***
+17:22:21.496 [main] INFO  testcases.Accountregpage - **** providing customer details***
+17:22:27.480 [main] INFO  testcases.Accountregpage - **** clicked on submit ***
+17:22:27.481 [main] INFO  testcases.Accountregpage - validating message
+17:22:27.544 [main] INFO  testcases.Accountregpage - completed test
+17:22:33.682 [main] INFO  testcases.Loginpage - login test started
+17:22:47.361 [main] INFO  testcases.Loginpage - clicked on login
+17:22:49.529 [main] INFO  testcases.Loginpage - login test finished
+17:39:01.899 [main] INFO  testcases.Loginpage - login test started
+17:39:14.653 [main] INFO  testcases.Loginpage - clicked on login
+17:39:16.794 [main] INFO  testcases.Loginpage - login test finished
+17:40:10.201 [main] INFO  testcases.Accountregpage - **** Accountregpage started ***
+17:40:10.979 [main] INFO  testcases.Accountregpage - **** providing customer details***
+17:40:16.501 [main] INFO  testcases.Accountregpage - **** clicked on submit ***
+17:40:16.502 [main] INFO  testcases.Accountregpage - validating message
+17:40:16.561 [main] INFO  testcases.Accountregpage - completed test
+17:40:22.209 [main] INFO  testcases.Loginpage - login test started
+17:40:31.519 [main] INFO  testcases.Loginpage - clicked on login
+17:40:33.649 [main] INFO  testcases.Loginpage - login test finished
+18:00:22.622 [main] INFO  testcases.Accountregpage - **** Accountregpage started ***
+18:00:23.420 [main] INFO  testcases.Accountregpage - **** providing customer details***
+18:00:28.909 [main] INFO  testcases.Accountregpage - **** clicked on submit ***
+18:00:28.909 [main] INFO  testcases.Accountregpage - validating message
+18:00:28.994 [main] INFO  testcases.Accountregpage - completed test
+18:00:34.738 [main] INFO  testcases.Loginpage - login test started
+18:00:44.779 [main] INFO  testcases.Loginpage - clicked on login
+18:00:46.926 [main] INFO  testcases.Loginpage - login test finished
