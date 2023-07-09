@@ -220,3 +220,11 @@
 18:00:34.738 [main] INFO  testcases.Loginpage - login test started
 18:00:44.779 [main] INFO  testcases.Loginpage - clicked on login
 18:00:46.926 [main] INFO  testcases.Loginpage - login test finished
+18:12:48.749 [main] INFO  testcases.Accountregpage - **** Accountregpage started ***
+18:12:49.576 [main] INFO  testcases.Accountregpage - **** providing customer details***
+18:12:55.183 [main] INFO  testcases.Accountregpage - **** clicked on submit ***
+18:12:55.183 [main] INFO  testcases.Accountregpage - validating message
+18:12:55.242 [main] INFO  testcases.Accountregpage - completed test
+18:13:00.977 [main] INFO  testcases.Loginpage - login test started
+18:13:11.715 [main] INFO  testcases.Loginpage - clicked on login
+18:13:13.946 [main] INFO  testcases.Loginpage - login test finished
